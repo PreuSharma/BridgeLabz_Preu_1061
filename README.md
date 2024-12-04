@@ -15,3 +15,11 @@ Topics Covered:
 3.Map & WeakMap
 4.Set & WeakSet
 
+=========================================
+
+Date:04/12/2024
+Topics Covered:
+1.Employee Wage
+2.Learned git by pushing Employee Wage
+
+=========================================
