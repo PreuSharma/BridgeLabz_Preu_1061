@@ -23,3 +23,14 @@ Topics Covered:
 2.Learned git by pushing Employee Wage
 
 =========================================
+
+Date:05/12/2024
+Topics Covered:
+1.Node Js
+2.NPM
+3.Type Conversion
+4.use strict
+5.Comparision Operators
+
+==========================================
+
