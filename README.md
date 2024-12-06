@@ -34,3 +34,13 @@ Topics Covered:
 
 ==========================================
 
+Date:06/12/2024
+Topics Covered:
+1.Interactions: alert, prompt, confirm
+2.Logical & Nullish Coaleing Operator
+3.Pollyfills and Transpilers
+4.Rest and Spread Parameter
+5.Variable Scope
+6.Closure
+
+==========================================
