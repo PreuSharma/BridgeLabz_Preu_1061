@@ -45,3 +45,41 @@ console.log(f);
 console.log("============reduce============")
 let r=arr.reduce((acc,num)=>acc+num,0)
 console.log(r)
+
+//5. reduceRight -right se left chalega
+const numbers=[1,2,3,4];
+const result=numbers.reduceRight((acc,curr)=>acc+curr,0);
+console.log(result); 
+
+
+//6.some
+const nums=[1,2,3,4];
+const hasEven=nums.some(num=>num%2===0);
+console.log(hasEven);
+
+//7.every
+const nums2=[2,4,6];
+const allEven=nums2.every(num=>num%2===0);
+console.log(allEven); 
+
+//8.find
+const nums3=[1,3,5,8];
+const firstEven=nums3.find(num=>num%2===0);
+console.log(firstEven);
+
+//9.findIndex
+const nums4=[1,3,5,8];
+const firstEvenIndex=nums4.findIndex(num=>num%2===0);
+console.log(firstEvenIndex);
+
+//10.flat
+const nested=[1,[2,[3,[4]]]];
+const flatArray= nested.flat(2);
+console.log(flatArray);
+
+//11.flatMap
+const nums5=[1,2,3];
+const result2=nums5.flatMap(num=>[num,num*2]);
+console.log(result2); 
+
+
