@@ -112,3 +112,19 @@ Practice Problem Solved:
 41. Create a function to calculate the distance between two points defined by their x, y coordinates
 44. Create a function that will convert a string containing a binary number into a number
 48. Create a function to return the longest word in a string
+
+================================================================
+
+Date:13-12-2024 (Friday)
+Practice Problems Solved:
+
+42. Create a function that will return a Boolean value indicating if two circles defined by center coordinates and radius are intersecting
+45. Create a function to calculate the sum of all the numbers in a jagged array
+(contains numbers or other arrays of numbers on an unlimited number of
+levels)
+50. Create a function that will receive n as argument and return an array of n random numbers from 1 to n. The numbers should be unique inside the array.
+51. Find the frequency of letters inside a string. Return the result as an array of arrays. Each subarray has 2 elements: letter and number of occurrences.
+52. Calculate Fibonacci(500) with high precision (all digits)
+53. Calculate 70! with high precision (all digits)
+
+
