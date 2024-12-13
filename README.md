@@ -127,4 +127,8 @@ levels)
 52. Calculate Fibonacci(500) with high precision (all digits)
 53. Calculate 70! with high precision (all digits)
 
+Topics Covered:
+1. Basic array
+2. Custom Array
+3. Array Methods
 
