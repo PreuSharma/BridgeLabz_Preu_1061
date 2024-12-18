@@ -132,3 +132,26 @@ Topics Covered:
 2. Custom Array
 3. Array Methods
 
+
+===========================================================
+===========================================================-sat -sun
+
+Date:16-12-2024 (Monday)
+
+review so revised all the topics and cleared pending doubts
+
+===========================================================
+
+Date:17-12-2024 (Tuesday)
+
+University Exam of Mastering Aptitude & logical thinking
+
+=============================================================
+
+Date: 18-12-2024 (Wednesday)
+
+Topics Covered:
+1. Stack
+2. Queue
+
+=============================================================
