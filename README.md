@@ -1,5 +1,6 @@
 
-Date:02/12/2024 (Monday) 
+__Date:02/12/2024 (Monday)__
+
 Topics Covered: 
 1.Basic Programming Constructs 
 2.Arrays -forEach,map,filter,reduce 
@@ -8,7 +9,8 @@ Topics Covered:
 
 =========================================
 
-Date:03/12/2024 (Tuesday)
+__Date:03/12/2024 (Tuesday)__
+
 Topics Covered:
 1.Arrow Function
 2.Iterables
@@ -17,14 +19,16 @@ Topics Covered:
 
 =========================================
 
-Date:04/12/2024 (Wednesday)
+__Date:04/12/2024 (Wednesday)__
+
 Topics Covered:
 1.Employee Wage
 2.Learned git by pushing Employee Wage
 
 =========================================
 
-Date:05/12/2024 (Thursday)
+__Date:05/12/2024 (Thursday)__
+
 Topics Covered:
 1.Node Js
 2.NPM
@@ -34,7 +38,8 @@ Topics Covered:
 
 ==========================================
 
-Date:06/12/2024 (Friday)
+__Date:06/12/2024 (Friday)__
+
 Topics Covered:
 1.Interactions: alert, prompt, confirm
 2.Logical & Nullish Coaleing Operator
@@ -46,14 +51,15 @@ Topics Covered:
 ==========================================
 ========================================== --sat --sun
 
-Date:09/12/2024 (Monday)
+__Date:09/12/2024 (Monday)__
 
 --Review 
 So, revised all the topics from 02-12-2024 till 06-12-2024
 
 ==========================================
 
-Date:10/12/2024 (Tuesday)
+__Date:10/12/2024 (Tuesday)__
+
 Topics Covered:
 1.Event Loop
 2.NFE
@@ -62,7 +68,7 @@ Topics Covered:
 
 ==========================================
 
-Date:11/12/2024 (Wednesday)
+__Date:11/12/2024 (Wednesday)__
 Practice Problem Solved:
 
 1. Print numbers from 1 to 10
@@ -85,7 +91,7 @@ Practice Problem Solved:
 
 ==========================================
 
-Date:12-12-2024 (Thursday)
+__Date:12-12-2024 (Thursday)__
 
 Practice Problem Solved:
 18. Print the first 100 prime numbers
@@ -115,7 +121,7 @@ Practice Problem Solved:
 
 ================================================================
 
-Date:13-12-2024 (Friday)
+__Date:13-12-2024 (Friday)__
 Practice Problems Solved:
 
 42. Create a function that will return a Boolean value indicating if two circles defined by center coordinates and radius are intersecting
@@ -136,22 +142,35 @@ Topics Covered:
 ===========================================================
 ===========================================================-sat -sun
 
-Date:16-12-2024 (Monday)
+__Date:16-12-2024 (Monday)__
 
 review so revised all the topics and cleared pending doubts
 
 ===========================================================
 
-Date:17-12-2024 (Tuesday)
+__Date:17-12-2024 (Tuesday)__
 
 University Exam of Mastering Aptitude & logical thinking
 
 =============================================================
 
-Date: 18-12-2024 (Wednesday)
+__Date: 18-12-2024 (Wednesday)__
 
 Topics Covered:
 1. Stack
 2. Queue
+
+=============================================================
+
+__Date: 19-12-2024 (Thursday)__
+
+University Exam Of Algorithms and Programming Paradigms
+
+=============================================================
+
+__Date: 20-12-2024 (Friday)__
+
+Topics Covered:
+1. LinkedList
 
 =============================================================
