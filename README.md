@@ -176,8 +176,16 @@ Topics Covered:
 =============================================================
 ============================================================= --sat --sun
 
-__Date: 24-12-2024 (Monday)__
+__Date: 23-12-2024 (Monday)__
 
 review so revised all the topics .
 
 =============================================================
+
+__Date: 24-12-2024 (Tuesday)__
+
+1. solved review question 
+2. did some output prediction practice
+3. linkedlist implementation
+
+===========================================================
