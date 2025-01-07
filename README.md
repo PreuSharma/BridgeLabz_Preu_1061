@@ -189,3 +189,24 @@ __Date: 24-12-2024 (Tuesday)__
 3. linkedlist implementation
 
 ===========================================================
+=========================================================== --christmas off
+
+__Date: 27-12-2024 (Friday)__ till __Date: 05-01-2025 (Sunday)__ Winter 
+off
+
+1. DSA practice problems
+
+
+===========================================================
+
+__Date: 06-01-2025 (Monday)__
+
+updated dsa practice problems with more solved problems
+
+===========================================================
+
+__Date: 07-01-2025 (Tuesday)__
+
+Design Principles
+
+============================================================
