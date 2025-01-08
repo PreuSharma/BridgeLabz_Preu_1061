@@ -210,3 +210,18 @@ __Date: 07-01-2025 (Tuesday)__
 Design Principles
 
 ============================================================
+
+__Date: 08-01-2025 (Wednesday)__
+
+1. Objects 
+2. Classes 
+3. Object references and copying
+4. Garbage collection 
+5. Object methods 
+6. this 
+7. Constructor
+8. new operator
+
+===========================================================
+operator "new", Optional chaining '?.', Object to primitive
+conversion, Property flags and descriptors, 
