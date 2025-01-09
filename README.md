@@ -223,5 +223,12 @@ __Date: 08-01-2025 (Wednesday)__
 8. new operator
 
 ===========================================================
-operator "new", Optional chaining '?.', Object to primitive
-conversion, Property flags and descriptors, 
+
+__Date: 09-01-2025 (Thursday)__
+
+1. Object to primitive conversion
+2. Property flags and descriptors 
+3. RealLife Example for practice
+4. Promises
+
+===========================================================
