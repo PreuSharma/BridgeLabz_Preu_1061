@@ -228,7 +228,9 @@ __Date: 09-01-2025 (Thursday)__
 
 1. Object to primitive conversion
 2. Property flags and descriptors 
-3. RealLife Example for practice
-4. Promises
+3. constructor
+4. new operator
+5. RealLife Example for practice
+6. Promises
 
 ===========================================================
