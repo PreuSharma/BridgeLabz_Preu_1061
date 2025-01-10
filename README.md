@@ -234,3 +234,17 @@ __Date: 09-01-2025 (Thursday)__
 6. Promises
 
 ===========================================================
+
+__Date: 10-01-2025 (Friday)__
+
+1. Promises
+2. Promises Chaining
+3. Promises API
+4. Error Handling with Promises
+5. Custom Errors
+6. Extending Errors
+7. RealLife Examples
+
+==========================================================
+
+
