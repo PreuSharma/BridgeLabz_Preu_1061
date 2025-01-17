@@ -256,3 +256,22 @@ __Date: 14-01-2025 (Tuesday)__
 
 =========================================================
 
+__Date: 15-01-2025 (Wednesday)__
+review so revised all topics
+
+=========================================================
+
+__Date: 16-01-2025 (Thursday)__
+1. callback revision
+2. object reference and copying
+3. this keyword
+
+=========================================================
+
+__Date:17-01-2025 (Friday)__
+
+1. microtasks
+2. promisification
+3. async/await 
+
+=========================================================
