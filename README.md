@@ -309,6 +309,77 @@ Address Book :
 1. uc1
 2. uc2
 3. uc3
-4. uc4 
+4. uc4
+5. uc5 
 
 ==================================================================
+
+__Date:24-01-2025 (Friday)__
+
+Address Book :
+
+1. uc6
+2. uc7
+3. uc8
+4. uc9
+5. uc10
+
+6. Started with Employee Payroll - 
+   Pages Completed:
+   employeeRegistration.html
+   employeeRegistration.css 
+==================================================================
+=================================================================--sat--sun
+
+__Date:27-01-2025 (Monday)__
+
+1. uc11
+2. uc12
+3. uc13
+4. Completed employeeDashboard.html and employeeDasboard.css
+
+==================================================================
+==================================================================--off 
+
+__Date:29-01-2025 (Wednesday)__
+
+1. started with dom, worked on employeeRegistration.js 
+2. applied validations
+3. stored data in local storage
+
+=================================================================
+
+__Date: 30-01-2025 (Thursday)__
+
+1. worked on employeeDashboard.js using jquery
+2. displayed data from local storage to Dashboard 
+
+=================================================================
+
+__Date: 31-01-2025 (Friday)__
+
+1. started with json server 
+2. saved data to json server instead of local storage
+3. started with Discovery Land company -
+   Pages Completed: 
+   gallery.html
+   gallery.css
+   experiences.html
+   experiences.css
+
+================================================================
+================================================================--sat--sun
+
+__Date:03-02-2025 (Monday)__
+
+1. Completed ourWorld.html , ourWorld.css 
+2. Completed aboutDLC.html, aboutDLC.css
+
+===============================================================
+
+__Date:04-02-2025 (Tuesday)__
+
+1. stated adding media query
+2. started adding transitions and animations
+
+===============================================================
