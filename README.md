@@ -399,7 +399,72 @@ __Date: 06_02_2025 (Thursday)__
 
 __Date: 07-02-2025 (Friday)__
 
-1. started with backend 
+1. started with backend - http/https, port, api, url, endpoints 
 2. review
 
 ===============================================================
+
+__Date: 08-02-2025 (Saturday)__
+
+1. http/https
+2. http methods 
+3. http protocols
+4. api -restapi vs restful vs normal
+5. Joi
+6. odm/orm
+
+===============================================================
+=============================================================== --sun
+
+__Date: 10-02-2025 (Monday)__
+
+1. understanding backend & folder structure
+
+===============================================================
+
+__Date: 11-02-2025 (Tuesday)__
+
+1. user registration api
+2. get user api 
+3. user login api with Jwt authorization
+
+===============================================================
+
+__Date; 12-02-2025 (Wednesday)__
+
+1. create userNotes api
+2. get userNotes api
+3. update note api
+4. delete/restore toggle note api
+
+===============================================================
+
+__Date: 13-02-2025 (Thursday)__
+
+1. forget password api
+2. reset password api
+3. introduction to swagger
+
+===============================================================
+
+__Date: 14-02-2025 (Friday)__
+
+1. completed swagger
+
+================================================================
+================================================================ --sat --sun
+
+__Date:17-02-2025 (Monday)__
+
+1. fundoNotes completed
+2. revising concept for review
+
+================================================================
+
+__Date: 18-02-2025 (Tuesday)__
+
+1. review 
+
+================================================================
+
+
