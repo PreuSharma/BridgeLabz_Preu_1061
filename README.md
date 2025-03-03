@@ -467,4 +467,44 @@ __Date: 18-02-2025 (Tuesday)__
 
 ================================================================
 
+__Date: 19-02-2025 (Wednesday)__
 
+revise all concepts interaction with Magic software
+
+================================================================
+
+__Date: 20-02-2025 (Thursday)__
+
+1. introduction to react 
+2. basic concepts of react
+
+================================================================
+
+__Date: 21-02-2025 (Friday)__
+
+1. login page in react using scss
+2. signup page in react using scss
+
+================================================================
+
+__Date: 22-02-2025 (Saturday)__
+
+1. completed login and signup page
+2. api integration for login and signup page 
+
+================================================================
+================================================================ --sun
+
+__Date: 24-02-2025 (Monday)__
+
+1. created dashboard page .
+2. worked on header component .
+3. created routingModule file.
+4. created components file like add Note, notes container, archiveContainer
+trashContainer, etc . 
+
+===============================================================
+
+__Date: 25-02-2025 (Tuesday)__
+
+1. 
