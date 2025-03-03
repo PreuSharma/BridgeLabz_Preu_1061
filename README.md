@@ -469,42 +469,78 @@ __Date: 18-02-2025 (Tuesday)__
 
 __Date: 19-02-2025 (Wednesday)__
 
-revise all concepts interaction with Magic software
-
+1. revise all concepts interaction with Magic software
+2. introduction to react 
+3. basic concepts of react
 ================================================================
 
 __Date: 20-02-2025 (Thursday)__
-
-1. introduction to react 
-2. basic concepts of react
-
-================================================================
-
-__Date: 21-02-2025 (Friday)__
 
 1. login page in react using scss
 2. signup page in react using scss
 
 ================================================================
 
-__Date: 22-02-2025 (Saturday)__
+__Date: 21-02-2025 (Friday)__
 
 1. completed login and signup page
 2. api integration for login and signup page 
+3. created dashboard page .
+4. worked on header component .
+5. created routingModule file.
+6. created components file like add Note, notes container, archiveContainer
+trashContainer, etc . 
+
+================================================================
+
+__Date: 22-02-2025 (Saturday)__
+
+1. worked on addNote component 
+2. implemented addNote Api 
 
 ================================================================
 ================================================================ --sun
 
 __Date: 24-02-2025 (Monday)__
 
-1. created dashboard page .
-2. worked on header component .
-3. created routingModule file.
-4. created components file like add Note, notes container, archiveContainer
-trashContainer, etc . 
+1. editNote Api
+2. styling of addNote, icons .
+3. worked on archive and delete container.
 
 ===============================================================
 
 __Date: 25-02-2025 (Tuesday)__
 
-1. 
+1. added functionality of archive , delete 
+2. improved ui and added sidebar 
+
+=================================================================
+================================================================= --wed (Mahashivratri)
+
+__Date: 27-02-2025 (Thursday)__
+
+1. added functionality like delete forever , restore, unarchive.
+2. review 
+
+=================================================================
+
+__Date: 28-02-2025 (Friday)__
+
+1. useContext
+2. use ContextApi
+3. started with testing
+
+=================================================================
+
+__Date: 01-03-2025 (Saturday)__
+
+1. revised hooks, props
+2. learned about prop drilling, context api , use Context hook etc.
+
+=================================================================
+================================================================= --sun
+
+__Date: 02-03-2025 (Monday)__
+
+
+================================================================
